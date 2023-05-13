@@ -13,22 +13,28 @@
 
 >Scope in JavaScript refers to the current context of code, which determines the accessibility of variables to JavaScript. The two types of scope are local and global: Global variables are those declared outside of a block. Local variables are those declared inside of a block.
 
-
--Область действия в JavaScript относится к текущему контексту кода, который определяет доступность переменных для JavaScript. Существует два типа области видимости: локальная и глобальная: глобальные переменные — это переменные, объявленные вне блока. Локальные переменные — это переменные, объявленные внутри блока.
+>-Область действия в JavaScript относится к текущему контексту кода, который определяет доступность переменных для JavaScript. Существует два типа области видимости: локальная и глобальная: глобальные переменные — это переменные, объявленные вне блока. Локальные переменные — это переменные, объявленные внутри блока.
 
 >There are 4 types of scope :
 > 
 > - 1) Global scope : In a programming environment, the global scope is the scope that contains, and is visible in, all other scopes.
-      -Глобальная область: в среде программирования глобальная область — это область, которая содержит и видна во всех других областях.
+
+>-Глобальная область: в среде программирования глобальная область — это область, которая содержит и видна во всех других областях.
 >
 > - 2) Function scope : A function creates a scope, so that (for example) a variable defined exclusively within the function cannot be accessed from outside the function or within other functions.
-       -Область действия функции: функция создает область действия, так что (например) переменная, определенная исключительно внутри функции, не может быть доступна извне функции или внутри других функций.
+
+
+>-Область действия функции: функция создает область действия, так что (например) переменная, определенная исключительно внутри функции, не может быть доступна извне функции или внутри других функций.
 >
 > - 3) Block scope : Block scoped variables: A block scoped variable means that the variable defined within a block will not be accessible from outside the block. A block can reside inside a function, and a block scoped variable will not be available outside the block even if the block is inside a function.
-       -Область действия блока: переменные области действия блока: переменная области действия блока означает, что переменная, определенная в блоке, не будет доступна извне блока. Блок может находиться внутри функции, и переменная области блока не будет доступна вне блока, даже если блок находится внутри функции.
+
+
+>-Область действия блока: переменные области действия блока: переменная области действия блока означает, что переменная, определенная в блоке, не будет доступна извне блока. Блок может находиться внутри функции, и переменная области блока не будет доступна вне блока, даже если блок находится внутри функции.
 >
 > - 4) Module scope : In modules, a variable declared outside any function is hidden and not available to other modules unless it is explicitly exported. Exporting makes a function or object available to other modules. In the next example, I export a function from the sequence.
-     -Область модуля: в модулях переменная, объявленная вне какой-либо функции, скрыта и недоступна для других модулей, если только она не экспортирована явно. Экспорт делает функцию или объект доступными для других модулей. В следующем примере я экспортирую функцию из последовательности
+
+
+>-Область модуля: в модулях переменная, объявленная вне какой-либо функции, скрыта и недоступна для других модулей, если только она не экспортирована явно. Экспорт делает функцию или объект доступными для других модулей. В следующем примере я экспортирую функцию из последовательности
 >
 >![](https://res.cloudinary.com/practicaldev/image/fetch/s--lI9XvHjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ibb.co/vJhg635/Scope.png)
 
