@@ -36,7 +36,7 @@
 
 > JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code. Hoisting is not a term normatively defined in the ECMAScript specification.
 
-Подъем JavaScript относится к процессу, при котором интерпретатор, по-видимому, перемещает объявление функций, переменных или классов в верхнюю часть их области видимости перед выполнением кода. Подъем не является термином, нормативно определенным в спецификации ECMAScript.
+>Подъем JavaScript относится к процессу, при котором интерпретатор, по-видимому, перемещает объявление функций, переменных или классов в верхнюю часть их области видимости перед выполнением кода. Подъем не является термином, нормативно определенным в спецификации ECMAScript.
 >
 >![](https://i.ytimg.com/vi/EvfRXyKa_GI/maxresdefault.jpg)
 
