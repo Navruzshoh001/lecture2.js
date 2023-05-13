@@ -44,8 +44,6 @@
 >
 >![](https://www.tutorialsteacher.com/Content/images/js/hoisting.png)
 >
-> - JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code. Hoisting is not a term normatively defined in the ECMAScript specification.
->
 >![](https://res.cloudinary.com/practicaldev/image/fetch/s--UkSuyTRW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yf0z2gqviit8ouds4gz0.png)
 
 ## Recursion (Pекурсия)
