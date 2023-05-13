@@ -59,7 +59,7 @@
 >
 >![](https://i.ytimg.com/vi/vLhHyGTkjCs/maxresdefault.jpg)
 
-## Closure (Закрытие)
+## Closure (Закрытия)
 
 >A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function.
 Замыкание — это комбинация функции, связанной вместе (вложенной) со ссылками на ее окружающее состояние (лексическое окружение). Другими словами, замыкание дает вам доступ к области действия внешней функции из внутренней функции.
