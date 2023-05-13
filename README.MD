@@ -8,10 +8,12 @@
 > --> RECURSION
 >
 > --> CLOUSER
-       
+
 ## Scope (Область видимости)
 
 >Scope in JavaScript refers to the current context of code, which determines the accessibility of variables to JavaScript. The two types of scope are local and global: Global variables are those declared outside of a block. Local variables are those declared inside of a block.
+
+
 -Область действия в JavaScript относится к текущему контексту кода, который определяет доступность переменных для JavaScript. Существует два типа области видимости: локальная и глобальная: глобальные переменные — это переменные, объявленные вне блока. Локальные переменные — это переменные, объявленные внутри блока.
 
 >There are 4 types of scope :
@@ -33,6 +35,8 @@
 ## Hoisting (Подъем)
 
 > JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code. Hoisting is not a term normatively defined in the ECMAScript specification.
+
+Подъем JavaScript относится к процессу, при котором интерпретатор, по-видимому, перемещает объявление функций, переменных или классов в верхнюю часть их области видимости перед выполнением кода. Подъем не является термином, нормативно определенным в спецификации ECMAScript.
 >
 >![](https://i.ytimg.com/vi/EvfRXyKa_GI/maxresdefault.jpg)
 
